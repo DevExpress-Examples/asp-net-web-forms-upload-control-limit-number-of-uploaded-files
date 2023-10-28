@@ -3,20 +3,18 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4552)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-<!-- default file list end -->
-# ASPxUploadControl - How to limit the number of uploaded files
+# Upload Control for ASP.NET Web Forms - How to limit the number of uploaded files
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e4552/)**
 <!-- run online end -->
 
+When the [EnableMultiSelect](https://docs.devexpress.com/AspNet/DevExpress.Web.UploadAdvancedModeSettings.EnableMultiSelect) property is set to `true`, [ASPxUploadControl](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxUploadControl) allows users to choose multiple files to upload in a single file open dialog. This example demonstrates how to limit the number of files that a user can upload at once.
 
-<p>This example shows how to limit the number of uploaded files by using ASPxUploadControl in the Multi-File Selection mode. To turn this mode on, set the AdvancedModeSettings.EnableMultiSelect property to true.</p>
+## Files to Review
 
-<br/>
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 
+## Documentation
 
+* [Multi-File Selection](https://docs.devexpress.com/AspNet/10653/components/file-management/file-upload/concepts/multi-file-selection)
