@@ -17,7 +17,7 @@ When the [EnableMultiSelect](https://docs.devexpress.com/AspNet/DevExpress.Web.U
 
 * [Multi-File Selection](https://docs.devexpress.com/AspNet/10653/components/file-management/file-upload/concepts/multi-file-selection)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-upload-control-limit-number-of-uploaded-files&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-upload-control-limit-number-of-uploaded-files&~~~was_helpful=no)
 
